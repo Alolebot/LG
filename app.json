@@ -1,9 +1,9 @@
 {
-    "name": "سورس ميوزك فريدوم",
-    "description": "سورس فريدوم لتشغيل الاغاني , رائع انت تستخدم احدث اصدار !",
-    "logo": "https://te.legra.ph/file/4807752a011965b771900.jpg",
+    "name": "سورس ميوزك توم",
+    "description": "سورس توم لتشغيل الاغاني , رائع انت تستخدم احدث اصدار !",
+    "logo": "https://graph.org/file/5be94502aa7ca4e949673.jpg",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/STKR2/LG",
+    "repository": "https://github.com/Alolebot/LG",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
