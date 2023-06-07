@@ -1,7 +1,7 @@
 {
     "name": "سورس ميوزك توم",
     "description": "سورس توم لتشغيل الاغاني , رائع انت تستخدم احدث اصدار !",
-    "logo": "https://graph.org/file/9da42c23383232c184e71.jpg",
+    "logo": "https://graph.org/file/e5943f28b78c1de4ca3bd.jpg",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/Alolebot/LG",
     "stack": "container",
